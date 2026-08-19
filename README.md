@@ -46,6 +46,7 @@ Resultado del Collection Runner ejecutando las 6 requests en secuencia:
 
 Total: 13/13 tests passed ✅
 
+
 📂 Contenido del repositorio
 QA-Practice-Reqres-API.postman_collection.json — colección exportada con las 6 requests y sus tests
 /screenshots — evidencia visual de ejecución
