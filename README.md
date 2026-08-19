@@ -45,6 +45,19 @@ A partir de 2025, reqres.in requiere un header `x-api-key` en todas las requests
 - `/screenshots` — evidencia visual de ejecución
 - Este `README.md`
 
+Estructura sugerida del repositorio
+jsonplaceholder-api-practice/
+├── README.md
+├── collections/
+│   └── jsonplaceholder-api.postman_collection.json
+└── screenshots/
+    ├── 01-get-posts.png
+    ├── 02-get-post-valid.png
+    ├── 03-get-post-404.png
+    ├── 04-post-create-201.png
+    ├── 05-put-update-200.png
+    └── 06-delete-200.png
+
 ## 💡 Aprendizajes
 
 - Diseñar casos de prueba positivos y negativos, no solo el "happy path"
